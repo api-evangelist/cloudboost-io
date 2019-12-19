@@ -1,0 +1,78 @@
+{
+    "name": "CloudBoost.io",
+    "description": "CloudBoost let's you build mobile and web applications that scale.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18919-cloudboost-io.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "baas",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cloudboost-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CloudBoost.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18919-cloudboost-io.jpg",
+            "humanURL": "https:\/\/www.cloudboost.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloudboost-io-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloudboost-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.cloudboost.io\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/cbblog.azurewebsites.net\/rss\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cloudboost"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/docs.cloudboost.io\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@cloudboost.io"
+        },
+        {
+            "type": "Email",
+            "url": "hello@cloudboost.io"
+        },
+        {
+            "type": "Email",
+            "url": "info@CloudBoost.io"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/cloudboost"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/cloudboostio"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.cloudboost.io\/"
+        }
+    ]
+}
